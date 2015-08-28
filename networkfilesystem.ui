@@ -1,0 +1,23 @@
+<UI version="4.0" stdSetDef="1" >
+ <class>NetworkFileSystemClass</class>
+ <widget class="QWidget" name="NetworkFileSystemClass" >
+  <property name="objectName" >
+   <string notr="true">NetworkFileSystemClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>NetworkFileSystem</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>

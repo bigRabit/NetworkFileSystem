@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="NetworkFileSystem">
+    </qresource>
+</RCC>
